@@ -66,7 +66,7 @@ function About() {
 
 /***/ }),
 
-/***/ 1:
+/***/ 2:
 /*!********************************************************************************************************************************************!*\
   !*** multi next-client-pages-loader?page=%2Fabout&absolutePagePath=%2FUsers%2Fwendellp.barreto%2FProjects%2Fhello-next%2Fpages%2Fabout.js ***!
   \********************************************************************************************************************************************/
@@ -89,5 +89,5 @@ module.exports = dll_129a35c7ec57967eb265;
 
 /***/ })
 
-},[[1,"static/runtime/webpack.js"]]]);
+},[[2,"static/runtime/webpack.js"]]]);
 //# sourceMappingURL=about.js.map
