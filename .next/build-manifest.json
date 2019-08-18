@@ -1,32 +1,55 @@
 {
-  "devFiles": [
-    "static/development/dll/dll_9e2a3f9838424feeb96c.js",
-    "static/development/dll/dll_9e2a3f9838424feeb96c.js.map"
-  ],
+  "devFiles": [],
   "pages": {
     "/": [
-      "static/runtime/webpack.js",
-      "static/runtime/main.js"
+      "static/runtime/webpack-3df6523e264ff2ac6548.js",
+      "static/chunks/commons.ec54083848fc177e80dd.js",
+      "static/runtime/main-e5d76643976cc24a5da4.js"
     ],
     "/_app": [
-      "static/runtime/webpack.js",
-      "static/runtime/main.js"
+      "static/runtime/webpack-3df6523e264ff2ac6548.js",
+      "static/chunks/commons.ec54083848fc177e80dd.js",
+      "static/runtime/main-e5d76643976cc24a5da4.js"
     ],
     "/_error": [
-      "static/runtime/webpack.js",
-      "static/runtime/main.js"
+      "static/runtime/webpack-3df6523e264ff2ac6548.js",
+      "static/chunks/commons.ec54083848fc177e80dd.js",
+      "static/runtime/main-e5d76643976cc24a5da4.js"
+    ],
+    "/about": [
+      "static/runtime/webpack-3df6523e264ff2ac6548.js",
+      "static/chunks/commons.ec54083848fc177e80dd.js",
+      "static/runtime/main-e5d76643976cc24a5da4.js"
+    ],
+    "/blog": [
+      "static/runtime/webpack-3df6523e264ff2ac6548.js",
+      "static/chunks/commons.ec54083848fc177e80dd.js",
+      "static/runtime/main-e5d76643976cc24a5da4.js"
     ],
     "/index": [
-      "static/runtime/webpack.js",
-      "static/runtime/main.js"
+      "static/runtime/webpack-3df6523e264ff2ac6548.js",
+      "static/chunks/commons.ec54083848fc177e80dd.js",
+      "static/runtime/main-e5d76643976cc24a5da4.js"
+    ],
+    "/p/[id]": [
+      "static/runtime/webpack-3df6523e264ff2ac6548.js",
+      "static/chunks/commons.ec54083848fc177e80dd.js",
+      "static/runtime/main-e5d76643976cc24a5da4.js"
+    ],
+    "/post": [
+      "static/runtime/webpack-3df6523e264ff2ac6548.js",
+      "static/chunks/commons.ec54083848fc177e80dd.js",
+      "static/runtime/main-e5d76643976cc24a5da4.js"
     ],
     "/shows": [
-      "static/runtime/webpack.js",
-      "static/runtime/main.js"
+      "static/runtime/webpack-3df6523e264ff2ac6548.js",
+      "static/chunks/commons.ec54083848fc177e80dd.js",
+      "static/runtime/main-e5d76643976cc24a5da4.js"
     ],
     "/shows/[id]": [
-      "static/runtime/webpack.js",
-      "static/runtime/main.js"
+      "static/runtime/webpack-3df6523e264ff2ac6548.js",
+      "static/chunks/commons.ec54083848fc177e80dd.js",
+      "static/runtime/main-e5d76643976cc24a5da4.js"
     ]
   }
 }
