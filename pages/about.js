@@ -1,9 +1,7 @@
-import Layout from '../comps/MyLayout';
+import withLayout from '../components/MyLayout';
 
-export default function About() {
+export default withLayout(function About() {
     return (
-        <Layout>
-            <p>This is the about page</p>
-        </Layout>
+        <p>This is the about page</p>
     );
-}
+})
